@@ -1,66 +1,18 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hung+Ngyen!;" />
-</h1>
+<h1 align="center">Hi 👋, I'm Hung Nguyen</h1>
+<h3 align="center">A passionate student from Vietnam</h3>
 
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
+- 🔭 I'm a student at [https://thanglong.edu.vn/](https://thanglong.edu.vn/)
 
-<!--<h2 align="center">Hi 👋, I'm Hung Nguyen</h2> -->
-<p align="center">
-  <h2 align="center">A passionate student from Vietnam 🇻🇳 </h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hung-nguyen-0a6458262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hung-nguyen-0a6458262" height="30" width="40" /></a>
+<a href="https://fb.com/nghuyhung05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nghuyhung05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hungnguyen05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hungnguyen05" height="30" width="40" /></a>
 </p>
 
-+ ✍ I'm a student at [Thang Long University](https://thanglong.edu.vn/).
-+ 🌱 I need support from everyone to get better.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhhung18&show_icons=true&locale=en&layout=compact" alt="nhhung18" /></p>
 
-## 📫 How to reach me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hung-nguyen-0a6458262/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/nghuyhung05" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/nhhung18" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:nguyenhung18042005@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-  </a>
-</p>
-
-## Skills:
-<p align="center">
-
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-<img src="https://img.icons8.com/dusk/48/000000/python.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/c.png"/>
-</p>
-
-## Activities:
-
- <table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhhung18/>
-      <!-- <img src="https://github-readme-stats.vercel.app/api?username=nhhung18&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="nhhung18" width="100%"/> -->
-    </td>
-    <td>
-      <p align="center"> 
-<!--         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/> -->
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-nhhung18.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-nhhung18.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nhhung18&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhhung18&" alt="nhhung18" /></p>
