@@ -2,8 +2,8 @@
 <h3 align="center">A student from Vietnam</h3>
 
 - 🔭 I'm a student at [https://thanglong.edu.vn/](https://thanglong.edu.vn/)
-
-- 📫 How to reach me **nguyenhung18042005@gmail.com**
+- 🔭 I am currently studying at [https://vinuni.edu.vn/vi/trang-chu/], participating in the 'AI in Action' Applied AI Talent Program by Vingroup. 
+- 📫 How to reach me **hungnguyenhuy1845@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
